@@ -1,7 +1,6 @@
 package guru.springframework.sfgpetclinic.model;
 
-import guru.springframework.ModelTests;
-import org.junit.jupiter.api.Tag;
+import guru.springframework.sfgpetclinic.ModelTests;
 import org.junit.jupiter.api.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;
